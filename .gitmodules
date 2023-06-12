@@ -1,0 +1,6 @@
+[submodule "BackendTarefa7"]
+	path = BackendTarefa7
+	url = https://github.com/MacaroniPenguinXastre/BackendTarefa7.git
+[submodule "FrontEndTarefa7"]
+	path = FrontEndTarefa7
+	url = https://github.com/MacaroniPenguinXastre/FrontEndTarefa7.git
