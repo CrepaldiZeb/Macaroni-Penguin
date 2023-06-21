@@ -96,3 +96,9 @@ Adicione o diretório do Dart SDK para o seu PATH do sistema operacional.
 Você pode usar o Android Studio, Visual Studio Code ou qualquer outro editor de sua preferência com suporte ao Flutter. (O Grupo Macaroni Penguin utilizou-se do IntelliJ IDEA Ultimate).
 
 Instale a extensão Flutter para o seu editor de código escolhido.
+
+Antes de iniciar o backend, baixe uma imagem do MariaDB no Docker, onde:
+
+- Usuário se chame: root;
+- Senha seja: 101010;
+- O contâiner tenha um schema chamado student;
